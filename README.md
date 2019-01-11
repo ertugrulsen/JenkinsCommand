@@ -19,4 +19,6 @@ Jenkins Jmeter Command
 C:\Users\ertugrul.sen\Desktop\apacheJmeter\apachejmeter4.0\bin\jmeter.bat -jmeter.save.saveservice.output_format=xml -n -t C:\Users\ertugrul.sen\Desktop\apacheJmeter\LoginScript.jmx -l Test.jtl
 
 
+Unit Test Batch Command 
 
+"C:\Program Files (x86)\Microsoft Visual Studio 2017\Common7\IDE\MSTest.exe" /testcontainer:"**path**.dll" /resultsfile:TestResults.trx
