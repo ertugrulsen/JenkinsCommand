@@ -1,7 +1,6 @@
 "# JenkinsCommand" 
 
 Build Command
-C:\Jenkins\workspace\TeknosaLive51\WebSite.sln
 -------------------------------------------------------
 /t:Build /p:VisiualStudioVersion=14.0 /property:Configuration=Release /p:DeployOnBuild=True  /p:UserName=**** /p:Password=*** 
 /p:AllowUntrustedCertificate=True /p:MSDeployPublishMethod=WMSVC 
